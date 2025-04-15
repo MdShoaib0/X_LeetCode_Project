@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="googleform.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-15T01:08:35" hostname="CODER" time="16.286">
+  <properties/>
+  <testcase name="runAllTestCases" classname="googleform.AppTest" time="16.286"/>
+  <system-out><![CDATA[Current URL: https://leetcode.com/
+Navigated to: https://leetcode.com/problemset/
+Total problems found: 51
+2179. Count Good Triplets in an Array
+1. Two Sum
+2. Add Two Numbers
+3. Longest Substring Without Repeating Characters
+4. Median of Two Sorted Arrays
+5. Longest Palindromic Substring
+Current URL after clicking Two Sum: https://leetcode.com/problems/two-sum/description/
+Register or Sign In is visible.
+]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>
